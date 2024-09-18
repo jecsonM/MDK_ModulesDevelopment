@@ -1,0 +1,14 @@
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\bin\Debug\net8.0\MDKlab1.exe
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\bin\Debug\net8.0\MDKlab1.deps.json
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\bin\Debug\net8.0\MDKlab1.runtimeconfig.json
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\bin\Debug\net8.0\MDKlab1.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\bin\Debug\net8.0\MDKlab1.pdb
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\MDKlab1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\MDKlab1.AssemblyInfoInputs.cache
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\MDKlab1.AssemblyInfo.cs
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\MDKlab1.csproj.CoreCompileInputs.cache
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\MDKlab1.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\refint\MDKlab1.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\MDKlab1.pdb
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\MDKlab1.genruntimeconfig.cache
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab1\MDKlab1\obj\Debug\net8.0\ref\MDKlab1.dll
