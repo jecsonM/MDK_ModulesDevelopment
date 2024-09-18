@@ -17,31 +17,32 @@ namespace ConsoleApplication
             //Console.WriteLine("Если кол-во нечётных эл-ов по значению будет более 3, то выведется прои-ие положительных эл-ов");
             //Console.WriteLine("Иначе отрицательные элементы будут увеличены на 3.");
             //Console.Write("Введите n:");
-            //byte n;
-            //Console.Write("n: ");
-            //while (!(byte.TryParse(Console.ReadLine(), out n))) Console.Write("Введите n (от 0 до 255): "); ; //Ввод длины массива
+            //byte n = 0;
+            //while (!((byte.TryParse(Console.ReadLine(), out n) && n > 0))) Console.Write("Введите n (от 1 до 255): "); ; //Ввод длины массива
             //int[] mas = new int[n];
 
             //Random random = new Random(50); //Зерно 50 для проверки. Ввод 15, про-ие= 21372385238131200, что верно (проверено калькуляторм)
             //for (int i = 0; i < mas.Length; i++) //Заполнение случайными числами
             //{
             //    mas[i] = random.Next(-1000, 1000);
-            //    Console.WriteLine($"{i+1}: {mas[i]}");
+            //    Console.WriteLine($"{i + 1}: {mas[i]}");
             //}
 
-            //int odds = 0;
-            //for (int i = 0; i < mas.Length; i++) { //Подсчёт кол-ва нечётных по значению чисел
+            //byte odds = 0;
+            //for (int i = 0; i < mas.Length; i++)
+            //{ //Подсчёт кол-ва нечётных по значению чисел
             //    if (Math.Abs(mas[i]) % 2 == 1) odds++;
             //}
 
             //if (odds > 3)
             //{
-            //    ulong product = 1;
+            //    double product = 1;
             //    for (int i = 0; i < mas.Length; i++)
             //    {
-            //        if (mas[i] > 0) product*= (uint)mas[i];
+            //        if (mas[i] > 0) product *= mas[i];
             //    }
             //    Console.WriteLine($"Произведение положительных: {product}");
+            //    if (double.IsPositiveInfinity(product)) Console.WriteLine("Кажется, Вы ввели слишком большую длину массива, и произведение чисел слишком велико.");
             //}
             //else
             //{
@@ -52,7 +53,7 @@ namespace ConsoleApplication
             //        Console.WriteLine($"{i + 1}: {mas[i]}");
             //    }
             //}
-
+            //Console.ReadKey();
 
             //Задание2
 
@@ -62,10 +63,10 @@ namespace ConsoleApplication
             Console.Write("Введите n:");
 
             byte n;
-            while (!(byte.TryParse(Console.ReadLine(), out n))) Console.Write("Введите n (от 0 до 255): "); //Ввод кол-ва столбцов массива
+            while (!(byte.TryParse(Console.ReadLine(), out n) && n > 0)) Console.Write("Введите n (от 1 до 255): "); //Ввод кол-ва столбцов массива
             Console.Write("Введите m:");
             byte m;
-            while (!(byte.TryParse(Console.ReadLine(), out m))) Console.Write("Введите m (от 0 до 255): "); //Ввод кол-ва строк массива
+            while (!(byte.TryParse(Console.ReadLine(), out m) && n > 0)) Console.Write("Введите m (от 1 до 255): "); //Ввод кол-ва строк массива
 
             int[,] mas = new int[n, m];
             int[] nOfPositivesInColumn = new int[m];

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MDKlab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c95e65d28b73f355e9e65a8e7e00a8aed42e4db")]
 [assembly: System.Reflection.AssemblyProductAttribute("MDKlab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MDKlab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
