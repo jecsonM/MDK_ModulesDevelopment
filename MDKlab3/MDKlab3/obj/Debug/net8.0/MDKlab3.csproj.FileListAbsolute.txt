@@ -1,0 +1,14 @@
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\bin\Debug\net8.0\MDKlab3.exe
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\bin\Debug\net8.0\MDKlab3.deps.json
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\bin\Debug\net8.0\MDKlab3.runtimeconfig.json
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\bin\Debug\net8.0\MDKlab3.dll
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\bin\Debug\net8.0\MDKlab3.pdb
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\MDKlab3.GeneratedMSBuildEditorConfig.editorconfig
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\MDKlab3.AssemblyInfoInputs.cache
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\MDKlab3.AssemblyInfo.cs
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\MDKlab3.csproj.CoreCompileInputs.cache
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\MDKlab3.dll
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\refint\MDKlab3.dll
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\MDKlab3.pdb
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\MDKlab3.genruntimeconfig.cache
+H:\МДК Разработка модулей\MDKlab3\MDKlab3\obj\Debug\net8.0\ref\MDKlab3.dll

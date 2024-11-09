@@ -1,0 +1,11 @@
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\bin\Debug\net8.0\Note-Worker.deps.json
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\bin\Debug\net8.0\Note-Worker.dll
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\bin\Debug\net8.0\Note-Worker.pdb
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\Note-Worker.GeneratedMSBuildEditorConfig.editorconfig
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\Note-Worker.AssemblyInfoInputs.cache
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\Note-Worker.AssemblyInfo.cs
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\Note-Worker.csproj.CoreCompileInputs.cache
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\Note-Worker.dll
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\refint\Note-Worker.dll
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\Note-Worker.pdb
+H:\МДК Разработка модулей\MDKlab5\Note-Worker\obj\Debug\net8.0\ref\Note-Worker.dll

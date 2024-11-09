@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDKlab3", "MDKlab3\MDKlab3.csproj", "{6C4B4E65-B902-4478-8979-F4F10F67BBC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4B4E65-B902-4478-8979-F4F10F67BBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4B4E65-B902-4478-8979-F4F10F67BBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4B4E65-B902-4478-8979-F4F10F67BBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4B4E65-B902-4478-8979-F4F10F67BBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE5D94A-1972-4547-A5D2-9D6F48E67375}
+	EndGlobalSection
+EndGlobal

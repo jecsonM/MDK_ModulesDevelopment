@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Евгений\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\329198-12\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab2\\MDKlab2\\MDKlab2.csproj",
+      "projectUniqueName": "H:\\МДК Разработка модулей\\MDKlab2\\MDKlab2\\MDKlab2.csproj",
       "projectName": "MDKlab2",
-      "projectPath": "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab2\\MDKlab2\\MDKlab2.csproj",
-      "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
-      "outputPath": "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab2\\MDKlab2\\obj\\",
+      "projectPath": "H:\\МДК Разработка модулей\\MDKlab2\\MDKlab2\\MDKlab2.csproj",
+      "packagesPath": "C:\\Users\\329198-12\\.nuget\\packages\\",
+      "outputPath": "H:\\МДК Разработка модулей\\MDKlab2\\MDKlab2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Евгений\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\329198-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
