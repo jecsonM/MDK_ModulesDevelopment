@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\МДК Разработка модулей\\MDKlab5\\Note-Worker\\Note-Worker.csproj": {}
+    "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab5\\Note-Worker\\Note-Worker.csproj": {}
   },
   "projects": {
-    "H:\\МДК Разработка модулей\\MDKlab5\\Note-Worker\\Note-Worker.csproj": {
+    "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab5\\Note-Worker\\Note-Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\МДК Разработка модулей\\MDKlab5\\Note-Worker\\Note-Worker.csproj",
+        "projectUniqueName": "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab5\\Note-Worker\\Note-Worker.csproj",
         "projectName": "Note-Worker",
-        "projectPath": "H:\\МДК Разработка модулей\\MDKlab5\\Note-Worker\\Note-Worker.csproj",
-        "packagesPath": "C:\\Users\\329198-12\\.nuget\\packages\\",
-        "outputPath": "H:\\МДК Разработка модулей\\MDKlab5\\Note-Worker\\obj\\",
+        "projectPath": "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab5\\Note-Worker\\Note-Worker.csproj",
+        "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
+        "outputPath": "F:\\Pictures\\мои док(и)\\.progi\\MDK_ModuleDevelopment\\MDKlab5\\Note-Worker\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\329198-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Евгений\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

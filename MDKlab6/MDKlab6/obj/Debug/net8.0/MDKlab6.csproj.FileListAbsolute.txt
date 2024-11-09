@@ -16,3 +16,21 @@ H:\МДК Разработка модулей\MDKlab6\MDKlab6\obj\Debug\net8.0\r
 H:\МДК Разработка модулей\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.pdb
 H:\МДК Разработка модулей\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.genruntimeconfig.cache
 H:\МДК Разработка модулей\MDKlab6\MDKlab6\obj\Debug\net8.0\ref\MDKlab6.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\bin\Debug\net8.0\MDKlab6.exe
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\bin\Debug\net8.0\MDKlab6.deps.json
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\bin\Debug\net8.0\MDKlab6.runtimeconfig.json
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\bin\Debug\net8.0\MDKlab6.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\bin\Debug\net8.0\MDKlab6.pdb
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\bin\Debug\net8.0\Note-Worker.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\bin\Debug\net8.0\Note-Worker.pdb
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.csproj.AssemblyReference.cache
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.AssemblyInfoInputs.cache
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.AssemblyInfo.cs
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.csproj.CoreCompileInputs.cache
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.csproj.Up2Date
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\refint\MDKlab6.dll
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.pdb
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\MDKlab6.genruntimeconfig.cache
+F:\Pictures\мои док(и)\.progi\MDK_ModuleDevelopment\MDKlab6\MDKlab6\obj\Debug\net8.0\ref\MDKlab6.dll

@@ -14,19 +14,10 @@ namespace ConsoleApplication
 {
     internal class Program
     {
-        //функции к заданию 1
-
-        
-        //конец функций к заданию 1
-
-
         static void Main(string[] args)
         {
             List<Note> notes = new List<Note>();
-            while (NoteConsole.mainMenu(ref notes))
-            {
-
-            }
+            while (NoteConsole.mainMenu(ref notes));
         }
     }
 }
